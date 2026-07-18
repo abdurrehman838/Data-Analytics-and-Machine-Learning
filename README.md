@@ -25,7 +25,7 @@ A comprehensive portfolio repository containing **5+ end-to-end data analysis an
 | [Restaurant Order Management System](./Restaurant-Order-Management/) | Core Software | Python OOP, Data Structuring, System Workflow Modeling |
 | [Gym Workout Tracker](./Gym-Workout-Website/) | Web Integration | Front-end Integration, System Logic, Data Forms |
 | [Scientific Calculator](./Scientific-Calculator/) | Logic Systems | Algorithmic Logic, Edge-case Handling, Python Math Functions |
-
+| Chess Winning Prediction using RF | Logic Systems | Data Analytics, Random forest |
 ---
 
 ## 📊 Core Topics Covered
